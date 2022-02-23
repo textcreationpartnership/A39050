@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Execution of William Lord Russel who on the 21st of this instant July was beheaded in Lincolns-Inn-Fields, for conspiring the death of the King, to leavy war, and raise a rebellion, together with his behaviour and speeches, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39050</idno>
+            <idno type="STC">Wing E3856A</idno>
+            <idno type="STC">ESTC R40194</idno>
+            <idno type="EEBO-CITATION">18774876</idno>
+            <idno type="OCLC">ocm 18774876</idno>
+            <idno type="VID">108291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1652:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Execution of William Lord Russel who on the 21st of this instant July was beheaded in Lincolns-Inn-Fields, for conspiring the death of the King, to leavy war, and raise a rebellion, together with his behaviour and speeches, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grantham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:108291:1" rendition="simple:additions"/>
+            <head>THE EXECUTION OF William Lord Ruſſel, Who on the 21ſt of this Inſtant <hi>July</hi> was Beheaded in <hi>Lincolns-Inn-Fields,</hi> for Conſpiring the Death of the King, to Lea<g ref="char:EOLhyphen"/>vy War, and Raiſe a Rebellion, together with his Behavi<g ref="char:EOLhyphen"/>our and Speeches, <hi>&amp;c.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Entred according to ORDER.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>WIlliam</hi> Lord <hi>Buſſel</hi> having been Impeached of High-Treaſon, for Conſpiring the Death of the King, to Leavy War, and a miſerable Slaughter to make amongſt the Subjects of our Soveraign Lord the King, he was thereupon. Apprehend<g ref="char:EOLhyphen"/>ed and Committed Priſoner to the <hi>Tower,</hi> where he conti<g ref="char:EOLhyphen"/>nued till the 13th of <hi>July,</hi> at what time he was brought to the <hi>Old-Baley,</hi> where an Indictmant of High-Treaſon being found againſt him, and he upon his Arraignment Pleading <hi>Not Guilty,</hi> was brought upon his Tryal, and after he had made his challenges of the <hi>Jury,</hi> he was put upon his Tryal: The Ex<g ref="char:EOLhyphen"/>ception for that, that the <hi>Jury</hi> were not Freeholders, being over-ruled by the Court, after the Arguments of Councel on both ſides had been heard and con<g ref="char:EOLhyphen"/>ſidered, ſo that the Evidence being opened by Mr. <hi>North,</hi> Mr. Attorney Ge<g ref="char:EOLhyphen"/>neral, Mr. Serjeant <hi>Jefferies, &amp;c.</hi> each of them laying open the heinous In<g ref="char:EOLhyphen"/>gratitude of the Conſpiracy againſt the Life of ſo good a Prince, and not only againſt him, but to the ſubverſion of the Government, and deſtruction of His Majeſties good Subjects, requiring them to conſider of what fatal conſequence the Conſpiracy would have been had it taken affect: To prove which, Collonel <hi>Rumſey</hi> was called and Sworn, who gave Evidence, That the Lord <hi>Ruſſel</hi> had been at a Conſult in the Houſe of one Mr. <hi>Shepheard</hi> a Merchant, in the Pariſh of St. <hi>Miles Baſleſhawe,</hi> and that he was ſent thither by the Earl of <hi>Shaftsbury,</hi> to inquire what the Lords, <hi>viz.</hi> the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> the Lord <hi>Grey,</hi> the Lord <hi>Ruſſel</hi> and others there convened, intended as to the general Inſurrection? who told him, That the Earl muſt be con<g ref="char:EOLhyphen"/>tented, for as much as Mr. <hi>Trenchard</hi> of <hi>Summerſet-ſhire</hi> had deceived them, in not having in readineſs the 1000 Foot and 400 Horſe he had promiſed to raiſe, having ſent Letters to certify them, that the people of the Country could not be brought to action at ſo ſhort a warning as was given; for that they muſt provide for their Families e're they entred upon ſo dangerous a de<g ref="char:EOLhyphen"/>ſign as a general Inſurrection; and that when this Meſſuage was brought, and the Anſwer returned, the Lord this day Executed ſeemed no ways to
+<pb facs="tcp:108291:2" rendition="simple:additions"/>contradict it, nor diſſenting from it, and that the Inſurrection was to have been on the 19th of <hi>November,</hi> had not the diſappointment happened, which unhinged the whole fabrick of the deſign as to that time. It was likewiſe Sworn againſt him, that by one Mr. <hi>Sheepherd</hi> a Merchant, that Mr. <hi>Ferga<g ref="char:EOLhyphen"/>gaſon</hi> came to his Houſe to beſpeak a Room in the Name of the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi> and divers other Lords, of which number, when they came, and that by Night in the Secreteſt wiſe, the Lord <hi>Ruſſel</hi> was one, and that a Declarati<g ref="char:EOLhyphen"/>on in his hearing was read to palliate the horrid action under pretence of Grievances, againſt which the ſaid Lord objected nothing, but appeared con<g ref="char:EOLhyphen"/>ſenting to it. The Lord <hi>Howard</hi> of <hi>Eſcrick</hi> opened the Plot in all its circum<g ref="char:EOLhyphen"/>ſtances, declaring the Lord <hi>Ruſſel</hi> had been in it from the original, to the beſt of his knowledge; but that <hi>Shaftsbury</hi> had been the greateſt contriver and carryer of it on, and that he himſelf had been at two Conſults, <hi>viz.</hi> at Mr. <hi>Sid<g ref="char:EOLhyphen"/>nies</hi> and at Mr. <hi>Hanbdens</hi> the younger, when the Lord <hi>Ruſſel</hi> was preſent; and where without controul, divers matters relating to the Conſpiracy were agreed upon, none then in the Aſſembly diſſenting; and that when they de<g ref="char:EOLhyphen"/>parted they went two and two together, giving divers other particulars in Evidence.</p>
+            <p>Upon this Evidence the Lord <hi>Ruſſel,</hi> notwithſtanding ſome weak defences made, was found Guilty of High-Treaſon, and the next day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought to the Barr, where he received Sentence as followeth, <hi>viz. To return to the place from whence he came, from thence to be drawn upon a Hurdle to the place of Exe<g ref="char:EOLhyphen"/>cution, there to be Hanged by the Neck, and then cut down alive, his Privy-Members to be cut off, Bowels to be taken out and burnt before his Face, his Head to be ſevered from his Body, and his Body to be devided into four Quarters, and to be diſpoſed of at the pleaſure of the King.</hi> This Sentence paſſed, notwithſtand<g ref="char:EOLhyphen"/>ing divers objections made, that what was ſworn againſt him would not a<g ref="char:EOLhyphen"/>mount to more than Miſpriſion. He was this day conveyed by a ſtrong Guard to <hi>Lincolns-Inn-Field,</hi> where a Scaffold was prepared for his Execution, he having, during the intervene, continued very penitent, and not appeared over-free in Diſcourſe to ſuch as came to viſit him. Being mounted the Scaffold, he expreſſed much ſorrow for his ſins, often extending his hands towards Heaven, deſiring forgiveneſs both of God and Men, requiring the Prayers of all good Chriſtians, with divers other expreſſions: After which, laying down his Head, he had it at two blows ſtricken off by the Execu<g ref="char:EOLhyphen"/>tioner.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Grantham.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
